@@ -37,7 +37,8 @@ I created virtual machines via Microsoft Azure. Installed various installation f
 <br />
 
 <p>
-<img width="447" alt="Screenshot 2024-03-06 194259" src="https://github.com/marcusgumbs/post-install-config/assets/162270050/d7493396-1510-4f41-9b18-9d4faf324f68">
+<<img width="447" alt="Screenshot 2024-03-06 194259" src="https://github.com/marcusgumbs/post-install-config/assets/162270050/f36cf5b6-e194-4ff0-9e8a-157dcb4f914e">
+>
 
 
 </p>
@@ -47,7 +48,8 @@ I configured roles, departments, teams, SLAs, and help topics that will be used 
 <br />
 
 <p>
-<img width="447" alt="Screenshot 2024-03-06 194358" src="https://github.com/marcusgumbs/post-install-config/assets/162270050/16e7799d-70a8-4a86-b988-1fdf9ff92070">
+<<img width="447" alt="Screenshot 2024-03-06 194358" src="https://github.com/marcusgumbs/post-install-config/assets/162270050/266fa249-8aae-4595-91fc-0da636635a8f">
+>
 
 </p>
 <p>
